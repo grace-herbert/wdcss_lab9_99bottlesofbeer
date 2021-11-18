@@ -1,0 +1,32 @@
+body{
+    
+    background-color: cornsilk;
+    align-content: center;
+    text-align: center;
+}
+
+
+.card {
+    display: flex;
+    justify-content: space-between;
+}
+
+h1{
+    font-family: fantasy;
+    font-size: 68px;
+    color: darkcyan;
+
+}
+
+
+
+#button{
+    margin-left: 25px;
+}
+
+.container{
+    align-content: center;
+    text-align: center;
+
+}
+
